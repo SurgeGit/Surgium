@@ -15,7 +15,6 @@ Mod is currently unavailable.
 ## Features
 
  * Items
-    
      * Raw Surgium 
      * Surgium Ingot
      * Deepslate and Surgium Ore

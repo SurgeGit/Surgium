@@ -15,8 +15,11 @@ Mod is currently unavailable.
 ## Features
 
  * Items
-     * Surgium Ingot (disfunctional)
-     * Raw Surgium (disfunctional)
+    
+     * Raw Surgium 
+     * Surgium Ingot
+     * Deepslate and Surgium Ore
+     * Surgium Block
 
 ## License
 

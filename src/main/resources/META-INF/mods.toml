@@ -29,7 +29,7 @@ displayName="Surgium" #mandatory
 # A file name (in the root of the mod JAR) containing a logo for display
 logoFile="examplemod.png" #optional
 # A text field displayed in the mod UI
-credits="Thanks for this example mod goes to Java" #optional
+credits="I want to say thank you to... absolutely f**king nobody!" #optional
 # A text field displayed in the mod UI
 authors="Surge" #optional
 # Display Test controls the display for your mod in the server connection screen

@@ -2,5 +2,9 @@
   "item.surgium.surgium_ingot": "Surgium Ingot",
   "item.surgium.raw_surgium": "Raw Surgium",
 
+  "block.surgium.surgium_block": "Block of Surgium",
+  "block.surgium.surgium_ore": "Surgium Ore",
+  "block.surgium.deepslate_surgium_ore": "Deepslate Surgium Ore",
+
   "itemGroup.surgiumtab" : "Surgium Mod"
 }

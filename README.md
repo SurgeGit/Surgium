@@ -2,6 +2,9 @@
 
 Surgium is a mod for Minecraft made by Surge. It is his first mod and is mainly for testing purposes only. WIP!
 
+![image](https://user-images.githubusercontent.com/105498056/209942412-78dd4bb3-4538-435d-b14f-a82fa0ea03cf.png)
+
+
 
 
 

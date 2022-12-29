@@ -1,5 +1,6 @@
 package com.gcole.surgium;
 
+import com.gcole.surgium.item.ModItems;
 import com.mojang.logging.LogUtils;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
@@ -13,14 +14,15 @@ import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file
 @Mod(Surgium.MOD_ID)
-public class Surgium
-{
+public class Surgium {
     public static final String MOD_ID = "surgium";
     private static final Logger LOGGER = LogUtils.getLogger();
     
     public Surgium()
     {
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
+
+        ModItems.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
